@@ -1,0 +1,27 @@
+{
+  "pages": [
+    "pages/A/A",
+    "pages/B/B",
+    "pages/C/C",
+    "pages/D/D"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle": "black",
+    "enablePullDownRefresh": true
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/A/A",
+        "text": "A"
+      },
+      {
+        "pagePath": "pages/B/B",
+        "text": "B"
+      }
+    ]
+  }
+}

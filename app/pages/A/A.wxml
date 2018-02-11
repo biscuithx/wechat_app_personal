@@ -1,0 +1,5 @@
+<!--pages/A/A.wxml-->
+<text>pages/A/A.wxml</text>
+<view>
+  <navigator url="../C/C">To C</navigator>
+</view>
